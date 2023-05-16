@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
  height="70%" width="40%">
      <img src="https://github.com/DarshanKumbhani/audio_player/assets/119837659/9f8719e5-18ea-4d2d-800f-d3fac36fae18"
  height="70%" width="40%">
-     <img src="https://github.com/DarshanKumbhani/audio_player/assets/119837659/eed4c323-dc4e-4065-9b42-b68e8e8c3aec"
+     <img src="https://github.com/DarshanKumbhani/audio_player/assets/119837659/1b0e4fa7-1b96-4fd7-b32a-8b6a60a284d8"
  height="70%" width="40%">
   
   
